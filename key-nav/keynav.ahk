@@ -166,4 +166,4 @@ CrossHair( scWidth, scHeight )
 
     Gui, Add, Text, % "x0 y" . scHeight-1 . " w" . scWidth . " h1 0x10 +BackgroundTrans"
     Gui, Add, Text, % "x" . scWidth-1 . " y0 w1 h" . scHeight . " 0x11 +BackgroundTrans"
-
+}
